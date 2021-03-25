@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 
 vscode sys settings
 
-新的gistId:321fea781b08b0c4f7f8a7e954811b82
-旧的token:bcba1732e288c0634902ea04d4fc3f05f2312023
+// token：d3b943fc27fa3b6f66c62fa5c3b0d56def673344
+
+// 旧的GistId:1c0a57d098892c2d7746b6951f897c7a
+// 新的GistId:3449ea1bcf7c2e9cf24f3db65bc51a0c
 -->
